@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/anja-elfvig/precache-manifest.633b4b2d6c1a91c4c94ccad64774a29f.js"
+  "/anja-elfvig/precache-manifest.375655c9c84d3505133d6c6ca4eabbd6.js"
 );
 
 workbox.clientsClaim();
